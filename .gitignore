@@ -2,3 +2,4 @@ reports.json
 
 node_modules
 config.env
+.DS_Store
